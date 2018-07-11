@@ -1,0 +1,12 @@
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApplication4
+--content-root=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\About.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\Contact.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\Error.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\Index.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\_Layout.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\_ValidationScriptsPartial.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\_ViewImports.cshtml
+--file=c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\Pages\_ViewStart.cshtml

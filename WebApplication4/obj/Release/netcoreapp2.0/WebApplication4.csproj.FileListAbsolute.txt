@@ -1,0 +1,11 @@
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\bin\Release\netcoreapp2.0\WebApplication4.deps.json
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\bin\Release\netcoreapp2.0\WebApplication4.runtimeconfig.json
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\bin\Release\netcoreapp2.0\WebApplication4.runtimeconfig.dev.json
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\bin\Release\netcoreapp2.0\WebApplication4.dll
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\bin\Release\netcoreapp2.0\WebApplication4.pdb
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\obj\Release\netcoreapp2.0\WebApplication4.csprojAssemblyReference.cache
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\obj\Release\netcoreapp2.0\WebApplication4.csproj.CoreCompileInputs.cache
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\obj\Release\netcoreapp2.0\WebApplication4.AssemblyInfoInputs.cache
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\obj\Release\netcoreapp2.0\WebApplication4.AssemblyInfo.cs
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\obj\Release\netcoreapp2.0\WebApplication4.dll
+c:\users\kishore.samantara\source\repos\WebApplication\WebApplication4\obj\Release\netcoreapp2.0\WebApplication4.pdb
